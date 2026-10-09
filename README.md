@@ -1,28 +1,6 @@
-# my-vue-app
+## Vue Application: A fake shopping app that accepts reviews
 
-This template should help get you started developing with Vue 3 in Vite.
+This repository is ripped off of [this repository](https://github.com/Code-Pop/Intro-to-Vue-3-Composition-API/), as I watched [this video](https://www.youtube.com/watch?v=s9URD3PefTk) (great tutorial)
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur)
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+I think I'll stick to React though. <br>
+Timestamp: 10th October 2026
